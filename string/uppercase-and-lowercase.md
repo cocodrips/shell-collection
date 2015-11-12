@@ -1,15 +1,14 @@
 # 変数の大文字/小文字変換
-
 Bash 4以降
-```
+
+```sh
 hoge="hello"
 
-echo ${hoge,,}
-echo ${hoge,}
+echo ${hoge,,} #全部小文字に
+echo ${hoge,}  #1文字目だけ小文字に
 
-echo ${hoge^^}
-echo ${hoge^}
-
+echo ${hoge^^} #全部大文字に
+echo ${hoge^}  #全部小文字に
 ```
 
 
