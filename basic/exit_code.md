@@ -6,7 +6,7 @@ echo $?
 
 使い方サンプル
 ```sh
-if [[ $? == 0 ]];
+if [ $? == 0 ];
 then
     echo "success"
 else
