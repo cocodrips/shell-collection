@@ -1,6 +1,12 @@
 # shell-collection
-
+- [基本](basic)
+  - [コマンドの終了コード](basic/exit_code.md)
 - [文字列操作](string)
   - [文字が○○（とある文字）ではじまるか](string/startswith.md)
   - [文字列の切り出し](string/substring.md)
   - [文字列を大文字/小文字に変換](string/uppercase-and-lowercase.md)
+  - [右寄せ/左寄せ](string/right_and_left.md)
+- [ログについて](log)
+  - [コマンドの実行結果を端末にprintかつログファイルに記録する](log/echo_and_log.md)
+- [mintty](mintty)
+  - [画面クリア] (mintty/clear.md)
