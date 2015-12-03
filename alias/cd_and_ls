@@ -1,0 +1,5 @@
+cdls ()
+{
+    \cd "$@" && ls --all --color
+}
+alias cd='cdls'
