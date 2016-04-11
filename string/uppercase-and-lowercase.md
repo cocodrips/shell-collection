@@ -8,7 +8,7 @@ echo ${hoge,,} #全部小文字に
 echo ${hoge,}  #1文字目だけ小文字に
 
 echo ${hoge^^} #全部大文字に
-echo ${hoge^}  #全部小文字に
+echo ${hoge^}  #一文字だけ大文字に
 ```
 
 
