@@ -3,3 +3,7 @@
 ```sh
 for d in $(svn list | xargs dirname); do echo ${d}, `svn list -R $d |wc -l` ; done
 ```
+
+```sh
+for d in $(svn list | grep "/"); do echo ${d}, `svn list -R $d |wc -l` ; done
+```
