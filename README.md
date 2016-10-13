@@ -16,8 +16,8 @@
   - [画面クリア] (mintty/clear.md)
 - [alias](alias)
   - [cdしたらls] (alias/cd_and_ls.md)
-- [雑多なもの]
+- 雑多なもの
   - [現在のファイル名・現在のディレクトリ名](path.md)
   - [ディレクトリ以下のファイルを全部chmod](find_chmod.md)
-- [番外編]
+- 番外編
   - [dosコマンド](ds.md)
