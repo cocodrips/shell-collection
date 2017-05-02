@@ -1,7 +1,6 @@
-#Substring
+# Substring
 
 ## n文字目以降
-
 ```sh
 ${hoge:n}
 ```
