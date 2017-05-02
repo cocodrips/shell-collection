@@ -1,6 +1,7 @@
 # shell-collection
 - [基本](basic)
   - [コマンドの終了コード](basic/exit_code.md)
+  - [for,if等の基本](basic/basic.md)
   - [シングルクォートとダブルクォート](http://qiita.com/cocodrips/items/bb3640a9834c8978d48a)
   - [ファイル関連](basic/file.md)
   - [特殊な意味をもつ変数](basic/special_variables.md)
