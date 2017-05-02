@@ -14,10 +14,10 @@
 - [ログについて](log)
   - [コマンドの実行結果を端末にprintかつログファイルに記録する](log/echo_and_log.md)
 - [日時](date)
-- [mintty](mintty)
-  - [画面クリア] (mintty/clear.md)
 - [alias](alias)
-  - [cdしたらls] (alias/cd_and_ls.md)
+  - [cdしたらls](alias/cd_and_ls.md)
+- [mintty](mintty)
+  - [画面クリア](mintty/clear.md)
 - 雑多なもの
   - [現在のファイル名・現在のディレクトリ名](path.md)
   - [ディレクトリ以下のファイルを全部chmod](find_chmod.md)
